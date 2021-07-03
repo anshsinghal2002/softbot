@@ -1,0 +1,14 @@
+{
+  "name": "softbot",
+  "version": "1.0.0",
+  "description": "The virtual inhabitant of CROCHET",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "singhala",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
